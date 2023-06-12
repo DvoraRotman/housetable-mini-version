@@ -2,7 +2,6 @@
 This project is a mini version of the HouseTable home evaluation system that includes a risk calculation model for potential loans. It is built using Node.js, Sequelize ORM with MySQL, and React.js.
 
 ## Getting Started
-[Uploading housetable-mini-version.pptx…]()
 
 ### Prerequisites
 
@@ -45,3 +44,4 @@ The frontend is built using React.js. It includes a form to submit a new house r
 ## Conclusion
 
 This mini version of the HouseTable home evaluation system is a simple yet effective demonstration of how to build a full-stack web application using Node.js, Sequelize ORM with MySQL, and React.js. It includes a simplistic risk calculation model for potential loans and provides a user-friendly interface for creating and updating house records.
+[housetable-mini-version.pptx](https://github.com/DvoraRotman/housetable-mini-version/files/11728301/housetable-mini-version.pptx)
