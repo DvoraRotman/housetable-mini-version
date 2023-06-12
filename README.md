@@ -44,5 +44,7 @@ The frontend is built using React.js. It includes a form to submit a new house r
 ## Conclusion
 
 This mini version of the HouseTable home evaluation system is a simple yet effective demonstration of how to build a full-stack web application using Node.js, Sequelize ORM with MySQL, and React.js. It includes a simplistic risk calculation model for potential loans and provides a user-friendly interface for creating and updating house records.
+
+
  A PowerPoint presentation demonstrating the features and functionality of the HouseTable mini version can be found here: 
 [housetable-mini-version.pptx](https://github.com/DvoraRotman/housetable-mini-version/files/11728301/housetable-mini-version.pptx)
